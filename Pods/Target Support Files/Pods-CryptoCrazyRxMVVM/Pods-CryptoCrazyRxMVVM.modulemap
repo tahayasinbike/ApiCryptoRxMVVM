@@ -1,0 +1,6 @@
+framework module Pods_CryptoCrazyRxMVVM {
+  umbrella header "Pods-CryptoCrazyRxMVVM-umbrella.h"
+
+  export *
+  module * { export * }
+}
